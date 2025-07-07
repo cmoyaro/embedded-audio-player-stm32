@@ -1,0 +1,10 @@
+../Core/Src/usart.c:31:6:MX_UART5_Init	8	static
+../Core/Src/usart.c:75:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:118:6:HAL_UART_MspInit	256	static
+../Core/Src/usart.c:204:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:251:6:MX_USART1_UART_DeInit	8	static
+../Core/Src/usart.c:259:19:MX_USART1_UART_Transmit	16	static
+../Core/Src/usart.c:264:19:MX_USART1_UART_Receive	16	static
+../Core/Src/usart.c:269:6:MX_UART5_DeInit	8	static
+../Core/Src/usart.c:277:19:MX_UART5_Transmit	16	static
+../Core/Src/usart.c:282:19:MX_UART5_Receive	16	static

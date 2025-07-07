@@ -1,0 +1,4 @@
+../TOUCHSENSING/App/touchsensing.c:37:6:MX_TOUCHSENSING_Init	1
+../TOUCHSENSING/App/touchsensing.c:50:20:MX_TOUCHSENSING_GetStatus	1
+../TOUCHSENSING/App/touchsensing.c:57:17:MX_TOUCHSENSING_GetPosition	1
+../TOUCHSENSING/App/touchsensing.c:64:19:MX_TOUCHSENSING_Task	1

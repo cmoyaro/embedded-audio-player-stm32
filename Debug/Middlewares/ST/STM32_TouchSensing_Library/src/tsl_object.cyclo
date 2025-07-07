@@ -1,0 +1,3 @@
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_object.c:35:6:TSL_obj_GroupInit	5
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_object.c:129:6:TSL_obj_GroupProcess	5
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_object.c:223:6:TSL_obj_SetGlobalObj	2

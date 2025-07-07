@@ -1,0 +1,6 @@
+../USB_Device/App/usbd_cdc_if.c:71:15:CDC_Itf_Init	1
+../USB_Device/App/usbd_cdc_if.c:90:15:CDC_Itf_DeInit	1
+../USB_Device/App/usbd_cdc_if.c:103:15:CDC_Itf_Control	1
+../USB_Device/App/usbd_cdc_if.c:188:15:CDC_Itf_Receive	1
+../USB_Device/App/usbd_cdc_if.c:208:9:CDC_Itf_Transmit	1
+../USB_Device/App/usbd_cdc_if.c:231:15:CDC_TransmitCplt	1

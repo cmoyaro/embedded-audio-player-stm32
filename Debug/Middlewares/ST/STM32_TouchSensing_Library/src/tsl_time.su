@@ -1,0 +1,3 @@
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_time.c:34:6:TSL_tim_ProcessIT	4	static
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_time.c:62:19:TSL_tim_CheckDelay_ms	24	static
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_time.c:121:19:TSL_tim_CheckDelay_sec	24	static

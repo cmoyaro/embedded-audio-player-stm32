@@ -1,0 +1,8 @@
+../Core/Src/usb_otg.c:29:6:MX_USB_OTG_FS_PCD_Private_PushBytes	1
+../Core/Src/usb_otg.c:41:6:MX_USB_OTG_FS_PCD_Init	5
+../Core/Src/usb_otg.c:100:6:HAL_PCD_MspInit	5
+../Core/Src/usb_otg.c:184:6:HAL_PCD_MspDeInit	2
+../Core/Src/usb_otg.c:211:6:MX_USB_OTG_FS_PCD_DeInit	1
+../Core/Src/usb_otg.c:221:6:MX_USB_OTG_FS_PCD_CablePluggedIn	1
+../Core/Src/usb_otg.c:228:19:MX_USB_OTG_FS_PCD_Transmit	5
+../Core/Src/usb_otg.c:251:19:MX_USB_OTG_FS_PCD_Receive	2

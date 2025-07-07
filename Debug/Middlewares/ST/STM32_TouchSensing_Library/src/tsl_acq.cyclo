@@ -1,0 +1,3 @@
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_acq.c:36:19:TSL_acq_BankGetResult	9
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_acq.c:152:19:TSL_acq_BankCalibrate	13
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_acq.c:303:6:TSL_acq_BankClearData	3

@@ -1,0 +1,7 @@
+../TOUCHSENSING/App/tsl_user.c:211:6:tsl_user_Init	1
+../TOUCHSENSING/App/tsl_user.c:225:19:tsl_user_Exec	6
+../TOUCHSENSING/App/tsl_user.c:354:6:HAL_TSC_ConvCpltCallback	2
+../TOUCHSENSING/App/tsl_user.c:381:19:tsl_user_Exec_IT	5
+../TOUCHSENSING/App/tsl_user.c:464:6:tsl_user_SetThresholds	1
+../TOUCHSENSING/App/tsl_user.c:479:6:MyLinRots_ErrorStateProcess	1
+../TOUCHSENSING/App/tsl_user.c:491:6:MyLinRots_OffStateProcess	1

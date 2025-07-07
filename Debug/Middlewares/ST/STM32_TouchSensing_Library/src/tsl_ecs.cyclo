@@ -1,0 +1,3 @@
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_ecs.c:46:15:TSL_ecs_CalcK	16
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_ecs.c:164:6:TSL_ecs_ProcessK	11
+../Middlewares/ST/STM32_TouchSensing_Library/src/tsl_ecs.c:264:19:TSL_ecs_Process	8
