@@ -28,5 +28,4 @@ Esta práctica recopila y extiende los conocimientos adquiridos en las PECs ante
 - **Lenguaje:** C
 - **Herramientas adicionales:** STM32CubeMX, HAL drivers, TSL (Touch Sensing Library)
 
-## 📂 Estructura del repositorio
 
